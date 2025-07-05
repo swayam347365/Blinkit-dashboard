@@ -31,7 +31,7 @@ This real-time dashboard for Blinkit (India's last-minute app) provides a compre
 
  4. Data Source
 
- The following data is taken from Kaggle , here i have provided the xml file -   
+ The following data is taken from Kaggle    
 
  5. Demo / Screenshot
    ![Alt Text]( https://github.com/swayam347365/Blinkit-dashboard/blob/main/screenshot%20blinkit%20dashoard.png)
